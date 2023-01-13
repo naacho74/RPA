@@ -3,11 +3,16 @@
   "description": "contenido del curso plazzi",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.16.0]",
-    "UiPath.Mail.Activities": "[1.18.1]",
-    "UiPath.System.Activities": "[22.10.3]",
-    "UiPath.Testing.Activities": "[22.10.0]",
-    "UiPath.UIAutomation.Activities": "[22.10.3]"
+    "Abbyy.CloudSdk.V2.Client": "[1.0.6]",
+    "UiPath": "[22.12.50.54269-preview]",
+    "UiPath.Database.Activities": "[1.7.1]",
+    "UiPath.Excel.Activities": "[2.17.0-preview]",
+    "UiPath.Mail.Activities": "[1.18.2]",
+    "UiPath.OCR.Activities": "[3.12.0]",
+    "UiPath.PDF.Activities": "[3.11.0]",
+    "UiPath.System.Activities": "[22.10.4]",
+    "UiPath.Testing.Activities": "[22.12.0-preview]",
+    "UiPath.UIAutomation.Activities": "[22.12.0-preview]"
   },
   "webServices": [],
   "entitiesStores": [],
